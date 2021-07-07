@@ -1,4 +1,3 @@
-# arduino
-Projeto para mostrar uso de sensores com Arduino e aplicar para o bem da comunidade.
-
-Video: https://youtu.be/5e0YRg5Mong
+# Sensor LiDAR VL53L
+ - Exemplo de uso do sensor LiDAR
+ - Com uso de IA, em particular, um regressor, pode-se combinar dados de acelerômetros com os dados de distância e implementar um sensor de obstáculos em um tênis.
